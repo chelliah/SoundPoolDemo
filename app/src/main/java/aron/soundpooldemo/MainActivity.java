@@ -1,5 +1,9 @@
 package aron.soundpooldemo;
 
+/*
+Code created from William Francis tutorial at http://www.techrepublic.com/blog/software-engineer/create-your-own-android-sound-board/
+ */
+
 import java.util.ArrayList;
 import android.app.ListActivity;
 import android.content.Context;
